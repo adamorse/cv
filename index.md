@@ -52,9 +52,35 @@ Interactive course development work including
 - Data Engineering Career Path
 - Prompt Engineering for Analytics
 
-Associate, *French Academy of Science*, Paris, France
+`2020 - 2022`
+__Champlain College__
+Adjunct in Mathematics
+Courses taught:
+- Discrete Mathematics
+- Mathematical Cryptography
+- Calculus II
+- Foundations of Mathematics
+- Statistics 101
 
+`2021`
+__St. Michael's College__
+Adjunct in Mathematics
+Course taught:
+- Elements of Calculus I
 
+`2014-2018 (selected semesters)`
+__University of Vermont__
+Instructor of record for:
+- Finite Mathematics with Applications (3 sections)
+- Fundamentals of Calculus 1 (2 sections)
+
+`2015-2017`
+__St. Michael's College__
+REU Mentor for three summers. Lead groups of 3-4 undergraduate researchers.
+- designed and guided the students’ summer research
+- students produced two peer-reviewed publications
+- students presented their research at local and national conferences
+- designed and taught intensive minicourses on graph theory, topology, and abstract algebra
 
 ## Publications
 
