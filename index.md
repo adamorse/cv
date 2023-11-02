@@ -84,34 +84,76 @@ REU Mentor for three summers. Lead groups of 3-4 undergraduate researchers.
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2020`
+__DNA Origami and Unknotted A-Trails in Torus Graphs__
+Journal of Knot Theory and Its Ramifications
+A. Morse, W. Adkisson, J. Greene, D. Perry, B. Smith, J. Ellis-Mongahan, G. Pangborn
 
-### Journals
+`2018`
+__Interlacement and Activities in Delta-Matroids__
+European Journal of Combinatorics
+Ada Morse
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2016`
+__The Interlace Polynomial__
+invited chapter in _Graph Polynomials_, ed. Dehmer et al, CRC Press
+Ada Morse
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2016`
+__Design Tools for Reporter Strands and DNA Scaffold Strands__
+Theoretical Computer Science
+Ellis-Monaghan,  Pangborn,  Seeman,  Blakeley,  Disher, Falcigno,  Healy, Morse, Singh, Westland
 
 
-## Occupation
+### Industry Experience
 
-`1600`
-__Royal Mint__, London
+`2020 - present`
+__Codecademy__
+- developed technical instruction in computer programming and data science
+- embedded pedagogical expert on a product engineering team
 
-- Warden
-- Minted coins
+`2018 - 2020`
+__National Life Group__
+Systems Analyst
+- __Teaching__: trained entry-level analysts in data science, statistics, and mathematical techniques necessary for the analysis of actuarial systems and products
+- __Automation__: designed and implemented combinatorial and data-based approaches to automated product testing, saving four
+months of hand-testing products in 2019 alone
+- __Predictive analytics__: performed studies to predict costs of features in a flagship product, reducing acquisition costs by more than
+half.
+- __Data models__: product point-person for full restructure of our enterprise data model
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+### Funding, Grants, and Awards
+
+`2018`
+__National Life Group__
+Winner at the company-wide data awards for work on product testing automation. Awards recipients chosen by peers in the data science community. Nominated again in 2019.
+
+`2017-2018`
+__University of Vermont__
+Graduate Teaching Assistant
+
+`2016-2017`
+__NASA - Vermont Space Grant Consortium__
+Graduate Research Assistant
+
+`2015`
+__NSF grant, St. Michael's College__
+REU Mentor
+
+`2014-2015`
+__University of Vermont__
+Graduate Teaching Assistant
+
+## Invited Conferences and Talks
+
+`2023`
+__School for Visual Arts__
+"What is AI? A Pedagogical Perspective"
+
+`2018`
+__AMS Spring Southeastern Sectional Meeting__
+"Interlacement and Activities in Delta-Matroids"
 
 
 
