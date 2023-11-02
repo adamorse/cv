@@ -24,18 +24,19 @@ Data Science, technical education, inquiry- and project-based learning
 `May 2018`
 __University of Vermont__
 
-- Ph.D. Mathematical Sciences
+Ph.D. Mathematical Sciences
 
 `May 2014`
 __SUNY Potsdam__
 
-- M.A. in Mathematics (with distinction)
-- B.A. in Mathematics (summa cum laude)
+M.A. in Mathematics (with distinction)
+
+B.A. in Mathematics (summa cum laude)
 
 `May 2014`
 __SUNY Potsdam__
 
-- B.M in Music Performance (summa cum laude)
+B.M in Music Performance (summa cum laude)
 
 ## Teaching Experience
 
