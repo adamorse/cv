@@ -54,6 +54,7 @@ Interactive course development work including
 
 `2020 - 2022`
 __Champlain College__
+
 Adjunct in Mathematics
 Courses taught:
 - Discrete Mathematics
