@@ -32,7 +32,8 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: dash;
+	list-style: none;
+	margin-left: 10px;
 }
 blockquote, q {
 	quotes: none;
