@@ -55,7 +55,8 @@ Interactive course development work including
 `2020 - 2022`
 __Champlain College__
 
-Adjunct in Mathematics
+_Adjunct in Mathematics_
+
 Courses taught:
 - Discrete Mathematics
 - Mathematical Cryptography
@@ -65,18 +66,22 @@ Courses taught:
 
 `2021`
 __St. Michael's College__
-Adjunct in Mathematics
+
+_Adjunct in Mathematics_
+
 Course taught:
 - Elements of Calculus I
 
 `2014-2018 (selected semesters)`
 __University of Vermont__
-Instructor of record for:
+
+_Instructor of record for_:
 - Finite Mathematics with Applications (3 sections)
 - Fundamentals of Calculus 1 (2 sections)
 
 `2015-2017`
 __St. Michael's College__
+
 REU Mentor for three summers. Lead groups of 3-4 undergraduate researchers.
 - designed and guided the students’ summer research
 - students produced two peer-reviewed publications
@@ -87,22 +92,30 @@ REU Mentor for three summers. Lead groups of 3-4 undergraduate researchers.
 
 `2020`
 __DNA Origami and Unknotted A-Trails in Torus Graphs__
-Journal of Knot Theory and Its Ramifications
+
+_Journal of Knot Theory and Its Ramifications_
+
 A. Morse, W. Adkisson, J. Greene, D. Perry, B. Smith, J. Ellis-Mongahan, G. Pangborn
 
 `2018`
 __Interlacement and Activities in Delta-Matroids__
-European Journal of Combinatorics
+
+_European Journal of Combinatorics_
+
 Ada Morse
 
 `2016`
 __The Interlace Polynomial__
+
 invited chapter in _Graph Polynomials_, ed. Dehmer et al, CRC Press
+
 Ada Morse
 
 `2016`
 __Design Tools for Reporter Strands and DNA Scaffold Strands__
-Theoretical Computer Science
+
+_Theoretical Computer Science_
+
 Ellis-Monaghan,  Pangborn,  Seeman,  Blakeley,  Disher, Falcigno,  Healy, Morse, Singh, Westland
 
 
@@ -115,7 +128,9 @@ __Codecademy__
 
 `2018 - 2020`
 __National Life Group__
-Systems Analyst
+
+_Systems Analyst_
+
 - __Teaching__: trained entry-level analysts in data science, statistics, and mathematical techniques necessary for the analysis of actuarial systems and products
 - __Automation__: designed and implemented combinatorial and data-based approaches to automated product testing, saving four
 months of hand-testing products in 2019 alone
@@ -128,104 +143,127 @@ half.
 
 `2018`
 __National Life Group__
+
 Winner at the company-wide data awards for work on product testing automation. Awards recipients chosen by peers in the data science community. Nominated again in 2019.
 
 `2017-2018`
 __University of Vermont__
+
 Graduate Teaching Assistant
 
 `2016-2017`
 __NASA - Vermont Space Grant Consortium__
+
 Graduate Research Assistant
 
 `2015`
 __NSF grant, St. Michael's College__
+
 REU Mentor
 
 `2014-2015`
 __University of Vermont__
+
 Graduate Teaching Assistant
 
 ## Invited Conferences and Talks
 
 `2023`
 __School for Visual Arts__
+
 "What is AI? A Pedagogical Perspective"
 
 `2018`
 __AMS Spring Southeastern Sectional Meeting__
+
 "Interlacement and Activities in Delta-Matroids"
 
 `2018`
 __Matroid Theory minisymposium, SIAM Discrete Math__
+
 "Interlacement and Activities in Delta-Matroids"
 
 `2017`
 __MathILY Summer Camp__
+
 "DNA Origami"
 
 `2017`
 __Topological and Geometric Algorithms Minisymposium, CanaDAM__
+
 "DNA Origami and Knots in Graphs"
 
 `2017`
 __MathCounts Middle School Math Competition__
+
 "DNA Origami"
 
 `2017`
 __Middlebury College seminar series__
+
 "Graphs, Knots, and Nanostructures"
 
 `2016`
 __Dagstuhl Seminar, "Graph Polynomials: Towards a Comparative Theory"__
+
 Invited participant
 
 ### Contributed Talks
 
 `2018`
 __Joint Mathematics Meetings__
+
 "DNA Origami and Knots in Graphs"
 
 `2017`
 __SIGMAA session "Undergraduate activities in mathematical and computational biology", MAA MathFest.__
+
 "Tiered Mentoring in REUs"
 
 `2017`
 __Summer Combo in Vermont__
+
 "Interlacement and Activities in Delta-Matroids"
 
 `2017`
 __Graduate Student Combinatorics Conference__
+
 "DNA Origami and Knots in Graphs"
 
 ### Service, Professional and Community
 
 `2022 - present`
 __Ohavi Zedek Synagogue__
+
 LGBT Chavurah organizer
 
 `2018 - 2020`
 __National Life Group__
+
 Member / data scientist for "Do Good Data Science"
 
 `2016 - 2020`
 __Outright Vermont__
+
 Facilitator, LGBT Youth Group
 
 `2019`
 __National Life Group__
+
 Organizer of the First Annual National Life Predictive Analytics Competition
 
 `2016 - 2017`
 __University of Vermont__
+
 Founder and organizer of "Am I a Seminar?", a graduate student seminar in mathematics
 
 `2015 - 2018`
 __University of Vermont__
+
 Graduate student representative on the Graduate Committee
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov 2023 -->
 
 
