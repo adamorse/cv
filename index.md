@@ -12,22 +12,18 @@ title: Ada Morse
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior Instructional Designer at Codecademy
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data Science, technical education, inquiry- and project-based learning
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`May 2018`
+__University of Vermont__
+- Ph.D. Mathematical Sciences
 
 `June 1661 - now`
 __Trinity College, Cambridge__
