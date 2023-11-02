@@ -156,7 +156,73 @@ __School for Visual Arts__
 __AMS Spring Southeastern Sectional Meeting__
 "Interlacement and Activities in Delta-Matroids"
 
+`2018`
+__Matroid Theory minisymposium, SIAM Discrete Math__
+"Interlacement and Activities in Delta-Matroids"
 
+`2017`
+__MathILY Summer Camp__
+"DNA Origami"
+
+`2017`
+__Topological and Geometric Algorithms Minisymposium, CanaDAM__
+"DNA Origami and Knots in Graphs"
+
+`2017`
+__MathCounts Middle School Math Competition__
+"DNA Origami"
+
+`2017`
+__Middlebury College seminar series__
+"Graphs, Knots, and Nanostructures"
+
+`2016`
+__Dagstuhl Seminar, "Graph Polynomials: Towards a Comparative Theory"__
+Invited participant
+
+### Contributed Talks
+
+`2018`
+__Joint Mathematics Meetings__
+"DNA Origami and Knots in Graphs"
+
+`2017`
+__SIGMAA session "Undergraduate activities in mathematical and computational biology", MAA MathFest.__
+"Tiered Mentoring in REUs"
+
+`2017`
+__Summer Combo in Vermont__
+"Interlacement and Activities in Delta-Matroids"
+
+`2017`
+__Graduate Student Combinatorics Conference__
+"DNA Origami and Knots in Graphs"
+
+### Service, Professional and Community
+
+`2022 - present`
+__Ohavi Zedek Synagogue__
+LGBT Chavurah organizer
+
+`2018 - 2020`
+__National Life Group__
+Member / data scientist for "Do Good Data Science"
+
+`2016 - 2020`
+__Outright Vermont__
+Facilitator, LGBT Youth Group
+
+`2019`
+__National Life Group__
+Organizer of the First Annual National Life Predictive Analytics Competition
+
+`2016 - 2017`
+__University of Vermont__
+Founder and organizer of "Am I a Seminar?", a graduate student seminar in mathematics
+
+`2015 - 2018`
+__University of Vermont__
+Graduate student representative on the Graduate Committee
 
 <!-- ### Footer
 
