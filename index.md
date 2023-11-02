@@ -122,7 +122,7 @@ _Theoretical Computer Science_
 Ellis-Monaghan,  Pangborn,  Seeman,  Blakeley,  Disher, Falcigno,  Healy, Morse, Singh, Westland
 
 
-### Industry Experience
+## Industry Experience
 
 `2020 - present`
 __Codecademy__
