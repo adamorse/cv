@@ -57,7 +57,6 @@ __Champlain College__
 
 _Adjunct in Mathematics_
 
-Courses taught:
 - Discrete Mathematics
 - Mathematical Cryptography
 - Calculus II
@@ -69,13 +68,12 @@ __St. Michael's College__
 
 _Adjunct in Mathematics_
 
-Course taught:
 - Elements of Calculus I
 
-`2014-2018 (selected semesters)`
+`2014-2015, 2017-2018`
 __University of Vermont__
 
-_Instructor of record for_:
+_GTA and Instructor of record_:
 - Finite Mathematics with Applications (3 sections)
 - Fundamentals of Calculus 1 (2 sections)
 
