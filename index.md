@@ -142,7 +142,7 @@ half.
 - __Data models__: product point-person for full restructure of our enterprise data model
 
 
-### Funding, Grants, and Awards
+## Funding, Grants, and Awards
 
 `2018`
 __National Life Group__
@@ -217,7 +217,7 @@ _Graph Polynomials: Towards a Comparative Theory_
 
 Invited participant
 
-### Contributed Talks
+## Contributed Talks
 
 `2018`
 __Joint Mathematics Meetings__
@@ -241,7 +241,7 @@ __Graduate Student Combinatorics Conference__
 
 "DNA Origami and Knots in Graphs"
 
-### Service, Professional and Community
+## Service, Professional and Community
 
 `2022 - present`
 __Ohavi Zedek Synagogue__
