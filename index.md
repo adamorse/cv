@@ -28,8 +28,9 @@ Ph.D. Mathematical Sciences
 `May 2014`
 __SUNY Potsdam__
 
-1. M.A. in Mathematics (with distinction)
-2. B.A. in Mathematics (summa cum laude)
+M.A. in Mathematics (with distinction)
+
+B.A. in Mathematics (summa cum laude)
 
 `May 2014`
 __SUNY Potsdam__
