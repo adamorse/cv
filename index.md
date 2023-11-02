@@ -47,10 +47,13 @@ __Codecademy__
 - Curriculum Developer (Aug 2022 - Dec 2022)
 - Associate Curriculum Developer (April 2022 - July 2022)
 
-Interactive course development work including
+Courses developed:
+- Intro to PyTorch and Neural Networks (in progress)
+- Intro to Hugging Face (in progress)
 - Learn Python for Data Science
 - Data Engineering Career Path
 - Prompt Engineering for Analytics
+- Prompt Engineering for Marketing
 
 `2020 - 2022`
 __Champlain College__
