@@ -25,22 +25,32 @@ Data Science, technical education, inquiry- and project-based learning
 __University of Vermont__
 - Ph.D. Mathematical Sciences
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`May 2014`
+__SUNY Potsdam__
 
-- Sizar
+- M.A. in Mathematics (with distinction)
+- B.A. in Mathematics (summa cum laude)
 
-`1667 - death`
-__Trinity College, Cambridge__
+`May 2014`
+__SUNY Potsdam__
 
-- Fellow
+- B.M in Music Performance (summa cum laude)
 
 
 
-## Awards
+## Teaching Experience
 
-`2012`
-President, *Royal Society*, London, UK
+`2022 - present`
+__Codecademy__
+- Senior Instructional Designer (August 2023 - present)
+- Instructional Designer (Jan 2023 - July 2023)
+- Curriculum Developer (Aug 2022 - Dec 2022)
+- Associate Curriculum Developer (April 2022 - July 2022)
+
+Interactive course development work including
+- Learn Python for Data Science
+- Data Engineering Career Path
+- Prompt Engineering for Analytics
 
 Associate, *French Academy of Science*, Paris, France
 
