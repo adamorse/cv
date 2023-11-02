@@ -82,7 +82,9 @@ _Instructor of record for_:
 `2015-2017`
 __St. Michael's College__
 
-REU Mentor for three summers. Lead groups of 3-4 undergraduate researchers.
+_REU Mentor, 3 summers_ 
+
+Lead groups of 3-4 undergraduate researchers.
 - designed and guided the students’ summer research
 - students produced two peer-reviewed publications
 - students presented their research at local and national conferences
