@@ -14,7 +14,7 @@ title: Ada Morse
 
 Senior Instructional Designer at Codecademy
 
-### Specialized in
+### Specializing in
 
 Data Science, technical education, inquiry- and project-based learning
 
@@ -179,7 +179,9 @@ __AMS Spring Southeastern Sectional Meeting__
 "Interlacement and Activities in Delta-Matroids"
 
 `2018`
-__Matroid Theory minisymposium, SIAM Discrete Math__
+__SIAM Discrete Math__
+
+_Matroid Theory minisymposium_
 
 "Interlacement and Activities in Delta-Matroids"
 
@@ -189,7 +191,9 @@ __MathILY Summer Camp__
 "DNA Origami"
 
 `2017`
-__Topological and Geometric Algorithms Minisymposium, CanaDAM__
+__CanaDAM__
+
+_Topological and Geometric Algorithms Minisymposium_
 
 "DNA Origami and Knots in Graphs"
 
@@ -204,7 +208,9 @@ __Middlebury College seminar series__
 "Graphs, Knots, and Nanostructures"
 
 `2016`
-__Dagstuhl Seminar, "Graph Polynomials: Towards a Comparative Theory"__
+__Dagstuhl Seminar__
+
+_Graph Polynomials: Towards a Comparative Theory_
 
 Invited participant
 
@@ -216,7 +222,9 @@ __Joint Mathematics Meetings__
 "DNA Origami and Knots in Graphs"
 
 `2017`
-__SIGMAA session "Undergraduate activities in mathematical and computational biology", MAA MathFest.__
+__MAA MathFest.__
+
+_SIGMAA session "Undergraduate activities in mathematical and computational biology"_
 
 "Tiered Mentoring in REUs"
 
