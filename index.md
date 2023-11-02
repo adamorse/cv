@@ -3,11 +3,10 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Ada Morse
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="morse.ada@gmail.com">morse.ada@gmail.com</a>
+| 803-343-1786
 </div>
 
 
