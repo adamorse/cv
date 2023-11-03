@@ -255,6 +255,7 @@ Author, "What is AI? A Pedagogical Perspective", internal guidelines document
 
 `2022`
 __Codecademy__
+
 Member, standards and documentation team
 
 `2022 - present`
