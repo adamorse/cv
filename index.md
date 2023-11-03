@@ -244,11 +244,13 @@ __Graduate Student Combinatorics Conference__
 
 `2023`
 __Codecademy__
+
 Member, "AI Bill of Rights" hackathon team
 Output: [Codecademy’s 5 AI Principles](https://www.codecademy.com/resources/blog/ai-principles/)
 
 `2023`
 __Codecademy__
+
 Author, "What is AI? A Pedagogical Perspective", internal guidelines document
 
 `2022`
