@@ -242,6 +242,19 @@ __Graduate Student Combinatorics Conference__
 
 ## Service, Professional and Community
 
+`2023`
+__Codecademy__
+Member, "AI Bill of Rights" hackathon team
+Output: [Codecademy’s 5 AI Principles](https://www.codecademy.com/resources/blog/ai-principles/)
+
+`2023`
+__Codecademy__
+Author, "What is AI? A Pedagogical Perspective", internal guidelines document
+
+`2022`
+__Codecademy__
+Member, standards and documentation team
+
 `2022 - present`
 __Ohavi Zedek Synagogue__
 
