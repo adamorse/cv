@@ -78,7 +78,8 @@ _Adjunct in Mathematics_
 
 - Elements of Calculus I
 
-`2014-2015, 2017-2018`
+`2014-2015`
+`2017-2018`
 __University of Vermont__
 
 _GTA and Instructor of record_:
