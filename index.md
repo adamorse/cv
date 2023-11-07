@@ -78,13 +78,12 @@ _Adjunct in Mathematics_
 
 - Elements of Calculus I
 
-`2014-2015`
-`2017-2018`
+`2014-15,2017-18`
 __University of Vermont__
 
 _GTA and Instructor of record_:
-- Finite Mathematics with Applications
-- Fundamentals of Calculus 1
+- Finite Mathematics with Applications (3 sections total)
+- Fundamentals of Calculus 1 (2 sections total)
 
 `2015-2017`
 __St. Michael's College__
