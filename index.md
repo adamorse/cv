@@ -5,7 +5,7 @@ title: Ada Morse
 # Ada Morse
 
 <div id="webaddress">
-<a href="morse.ada@gmail.com">morse.ada@gmail.com</a>, 802-343-1786
+<a href="morse.ada@gmail.com">morse.ada@gmail.com</a>
 </div>
 
 
