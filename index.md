@@ -5,7 +5,7 @@ title: Ada Morse
 # Ada Morse
 
 <div id="webaddress">
-<a href="morse.ada@gmail.com">morse.ada@gmail.com</a>
+<a href="morse.ada@gmail.com">morse.ada@gmail.com</a>, 802-343-1786
 </div>
 
 
@@ -49,10 +49,16 @@ __Codecademy__
 Courses developed:
 - Intro to PyTorch and Neural Networks (in progress)
 - Intro to Hugging Face (in progress)
-- Learn Python for Data Science
+- Learn Python for Data Science Skill Path (two courses)
 - Data Engineering Career Path
 - Prompt Engineering for Analytics
+- Learn Microsoft Excel for Data Analysis
 - Prompt Engineering for Marketing
+
+Product Features:
+- AI Collections
+- Learner Onboarding
+- Dashboard V2 (in progress)
 
 `2020 - 2022`
 __Champlain College__
@@ -76,8 +82,8 @@ _Adjunct in Mathematics_
 __University of Vermont__
 
 _GTA and Instructor of record_:
-- Finite Mathematics with Applications (3 sections)
-- Fundamentals of Calculus 1 (2 sections)
+- Finite Mathematics with Applications
+- Fundamentals of Calculus 1
 
 `2015-2017`
 __St. Michael's College__
@@ -85,10 +91,10 @@ __St. Michael's College__
 _REU Mentor, 3 summers_ 
 
 Lead groups of 3-4 undergraduate researchers.
-- designed and guided the students’ summer research
-- students produced two peer-reviewed publications
-- students presented their research at local and national conferences
-- designed and taught intensive minicourses on graph theory, topology, and abstract algebra
+- Designed and guided the students’ summer research
+- Students produced two peer-reviewed publications
+- Students presented their research at local and national conferences
+- Designed and taught intensive minicourses on graph theory, topology, and abstract algebra
 
 ## Publications
 
@@ -125,7 +131,7 @@ Ellis-Monaghan,  Pangborn,  Seeman,  Blakeley,  Disher, Falcigno,  Healy, Morse,
 
 `2020 - present`
 __Codecademy__
-- developed technical instruction in computer programming and data science
+- developed technical instruction in computer programming, data science, and AI systems
 - embedded pedagogical expert on a product engineering team
 
 `2018 - 2020`
@@ -133,11 +139,12 @@ __National Life Group__
 
 _Systems Analyst_
 
+Responsibilities included
 - __Teaching__: trained entry-level analysts in data science, statistics, and mathematical techniques necessary for the analysis of actuarial systems and products
 - __Automation__: designed and implemented combinatorial and data-based approaches to automated product testing, saving four
 months of hand-testing products in 2019 alone
 - __Predictive analytics__: performed studies to predict costs of features in a flagship product, reducing acquisition costs by more than
-half.
+half
 - __Data models__: product point-person for full restructure of our enterprise data model
 
 
@@ -171,7 +178,7 @@ Graduate Teaching Assistant
 ## Invited Conferences and Talks
 
 `2023`
-__School for Visual Arts__
+__School of Visual Arts__
 
 "What is AI? A Pedagogical Perspective"
 
@@ -190,7 +197,7 @@ _Matroid Theory minisymposium_
 `2017`
 __MathILY Summer Camp__
 
-"DNA Origami"
+"DNA Nanostructure Self-Assembly"
 
 `2017`
 __CanaDAM__
@@ -224,7 +231,7 @@ __Joint Mathematics Meetings__
 "DNA Origami and Knots in Graphs"
 
 `2017`
-__MAA MathFest.__
+__MAA MathFest__
 
 _SIGMAA session "Undergraduate activities in mathematical and computational biology"_
 
